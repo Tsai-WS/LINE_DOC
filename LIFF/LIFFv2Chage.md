@@ -41,8 +41,8 @@ https://developers.line.biz/en/reference/liff/
 - Bot_prompt
 - Option
 
-Scope , Bot_prompt 設定與LINE login 設定相同
-參考LINE Login 說明文件
+Scope , Bot_prompt 設定與LINE login 設定相同，參考LINE Login 說明文件
+
 **Scope,Bot_prompt** 參數說明
 https://developers.line.biz/en/docs/line-login/web/integrate-line-login/
 
