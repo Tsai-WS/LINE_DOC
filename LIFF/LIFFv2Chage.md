@@ -34,7 +34,7 @@ https://developers.line.biz/en/reference/liff/
 -----
 
 ## LIFF 設定頁面更新
-[Imgur](https://i.imgur.com/5uguYJF.jpg)
+[LIFF 設定頁面](https://github.com/Tsai-WS/LINE_DOC/blob/master/LIFF/img/1571236877634.jpg)
 
 新增項目
 - Scope
@@ -60,7 +60,7 @@ https://developers.line.biz/en/docs/line-login/web/integrate-line-login/
 Follow the instructions in the README.md for the line-liff-v2-starter GitHub repository.
 https://github.com/line/line-liff-v2-starter/blob/master/README.md
 
-[Imgur](https://i.imgur.com/1hrondZ.jpg)
+[Trying the LIFF starter app](https://github.com/Tsai-WS/LINE_DOC/blob/master/LIFF/img/317998.jpg)
 
 官方測試工具是使用 nodejs 運作，如果不想安裝 nodejs 直接跑前端的話
 只需要使用到 **/line-liff-v2-starter/public/** 資料夾內的檔案即可
