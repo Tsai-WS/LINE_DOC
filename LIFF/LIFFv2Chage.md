@@ -63,19 +63,20 @@ https://github.com/line/line-liff-v2-starter/blob/master/README.md
 ![](https://github.com/Tsai-WS/LINE_DOC/blob/master/LIFF/img/317998.jpg)
 
 官方測試工具是使用 nodejs 運作，如果不想安裝 nodejs 直接跑前端的話
+
 只需要使用到 **/line-liff-v2-starter/public/** 資料夾內的檔案即可
 
-### 使用說明使用說明
+### 使用說明
 
-#### 使用 nodejs 運作
-請設定環境變數 **MY_LIFF_ID={liffId}**
+#### 使用 nodejs 運作方式
+需要設定環境變數 **MY_LIFF_ID={liffId}**
 
 ##### 什麼是 LIFFID ?
 建立 LIFF app 後，會獲得 LIFF app 網址
 LIFF URL line://app/{liffId}
 
-#### 直接使用 public 檔案
-請修改 liff-starter.js 內
+#### 直接使用 public 檔案方式
+需要修改 liff-starter.js 內
 ```javascript
     const useNodeJS = false;   // 設定 false
     const defaultLiffId = "";   // 填寫 LIFF ID
