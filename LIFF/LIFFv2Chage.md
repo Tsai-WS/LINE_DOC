@@ -61,6 +61,7 @@ Follow the instructions in the README.md for the line-liff-v2-starter GitHub rep
 https://github.com/line/line-liff-v2-starter/blob/master/README.md
 
 ![](https://github.com/Tsai-WS/LINE_DOC/blob/master/LIFF/img/317998.jpg)
+
 官方測試工具是使用 nodejs 運作，如果不想安裝 nodejs 直接跑前端的話
 只需要使用到 **/line-liff-v2-starter/public/** 資料夾內的檔案即可
 
